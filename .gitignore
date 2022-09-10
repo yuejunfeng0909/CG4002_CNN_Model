@@ -3,3 +3,5 @@ model.pt
 model_checkpoint/.data-00000-of-00001
 model_checkpoint/.index
 model_checkpoint/checkpoint
+
+*.h5

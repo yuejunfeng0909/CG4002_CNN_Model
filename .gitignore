@@ -5,3 +5,7 @@ model_checkpoint/.index
 model_checkpoint/checkpoint
 
 *.h5
+
+test_x.npy
+
+test_y.npy

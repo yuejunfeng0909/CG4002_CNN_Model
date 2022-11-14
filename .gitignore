@@ -4,3 +4,5 @@
 test_x.npy
 
 test_y.npy
+
+model_checkpoint/
